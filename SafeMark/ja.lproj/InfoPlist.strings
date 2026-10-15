@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SafeMark
+  
+  日本語
+*/
+
+// App Display Name
+"CFBundleDisplayName" = "SafeMark";
+
+// Permission Descriptions
+"NSPhotoLibraryUsageDescription" = "SafeMarkは画像を選択し、ウォーターマーク付きの画像を保存するために、あなたのフォトライブラリへのアクセスが必要です。お客様の写真をアップロードすることはありません。";
+"NSPhotoLibraryAddUsageDescription" = "SafeMarkはウォーターマーク付きの画像をフォトライブラリに保存するための権限が必要です。";

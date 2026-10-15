@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SafeMark
+  
+  繁體中文
+*/
+
+// App Display Name
+"CFBundleDisplayName" = "SafeMark";
+
+// Permission Descriptions
+"NSPhotoLibraryUsageDescription" = "SafeMark需要存取您的照片圖庫以選擇圖片並儲存添加浮水印後的圖片。我們不會上傳您的照片。";
+"NSPhotoLibraryAddUsageDescription" = "SafeMark需要權限儲存添加浮水印後的圖片到您的照片圖庫。";

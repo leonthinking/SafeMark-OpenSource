@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SafeMark
+  
+  English
+*/
+
+// App Display Name
+"CFBundleDisplayName" = "SafeMark";
+
+// Permission Descriptions
+"NSPhotoLibraryUsageDescription" = "SafeMark needs access to your photo library to select images and save watermarked photos. We do not upload your photos.";
+"NSPhotoLibraryAddUsageDescription" = "SafeMark needs permission to save watermarked images to your photo library.";
